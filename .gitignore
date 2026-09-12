@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.ipynb_checkpoints/
+
+# Excel/Office temp files
+~$*.xlsx
+~$*.xlsm
